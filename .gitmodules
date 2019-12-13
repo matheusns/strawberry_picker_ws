@@ -1,0 +1,9 @@
+[submodule "src/usb_cam"]
+	path = src/usb_cam
+	url = https://github.com/matheusns/usb_cam.git
+[submodule "src/dm_diagnostic"]
+	path = src/dm_diagnostic
+	url = https://github.com/matheusns/dm_diagnostic.git
+[submodule "src/strawberry_detector"]
+	path = src/strawberry_detector
+	url = https://github.com/matheusns/strawberry_detector.git
