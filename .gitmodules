@@ -7,3 +7,9 @@
 [submodule "src/strawberry_detector"]
 	path = src/strawberry_detector
 	url = https://github.com/matheusns/strawberry_detector.git
+[submodule "src/state_machine"]
+	path = src/state_machine
+	url = https://github.com/matheusns/state_machine.git
+[submodule "src/dobot"]
+	path = src/dobot
+	url = https://github.com/matheusns/dobot.git
